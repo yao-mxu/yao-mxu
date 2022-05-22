@@ -1,2 +1,4 @@
 Welcome to my GitHub page!
-You can reach me at yx1441@nyu.edu
+
+You can reach me via [email](mailto:yao.xu@nyu.edu?subject=GitHub)
+
