@@ -2,7 +2,7 @@ Welcome to my GitHub page! See [more](https://yx1441.github.io) :)
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yx1441&count_private=true)
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx1441&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/yx1441/stats/master/generated/languages.svg)
 
