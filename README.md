@@ -6,4 +6,4 @@ Welcome to my GitHub page! See [more](https://yao-mxu.github.io) :)
 
 You can reach me via [email](mailto:yao.xu@nyu.edu?subject=GitHub) if anything comes up.
 
-![](https://komarev.com/ghpvc/?username=yao-mxu)
+![](https://komarev.com/ghpvc/?username=yao-mxu&base=1000)
